@@ -1961,6 +1961,21 @@ body {
 .cid-r4vUs5CfiL .mbr-section-subtitle DIV {
   text-align: center;
 }
+.cid-r4xWFX4uC4 {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-r4xWFX4uC4 .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-r4xWFX4uC4 .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-r4xWFX4uC4 .content-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
 .cid-r4vZkvPTpj {
   padding-top: 0px;
   padding-bottom: 0px;
